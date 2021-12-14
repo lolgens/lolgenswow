@@ -38,6 +38,9 @@
 }
 .dodger{
 	transform: translateY(300px);
+}	
+.testgame{
+	transform: translateY(1200px);	
 }
 .apps button{
 	width: 200px;
@@ -58,6 +61,4 @@
 	color:  black;
 
 }
-}
-.testgame{
-	transform: translateY(1200px);
+
