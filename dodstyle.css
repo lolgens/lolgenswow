@@ -34,6 +34,7 @@
 
 .dodgerinfo img{
 	width: 300px;
+ 	padding-bottom: 100px;
 }
 .dodgerinfo h1{
 	transform: translateY(-10px);
