@@ -1,7 +1,7 @@
 *{
 
 	margin: 0 ;
-	padding: 0;
+	padding: 10;
 	font-family: sans-serif;
 	background-color: #2a2c30;
 }
@@ -24,6 +24,7 @@
 	color: white;
 }
 .apps{
+	margin: 30px auto;
 	width: 100%;
 	height: 100vh;
 	align-items: :center;
