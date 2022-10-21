@@ -58,6 +58,7 @@
 	transition: ease-out 0.5s;
 	outline: none;
 	padding-bottom: 50px;
+	font-size: 30px;
 }
 
 .apps button:hover{
