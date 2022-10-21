@@ -42,6 +42,7 @@
 	padding-bottom: 50px;
 }
 .dodger img{
+	padding-top: 50px;
 	padding-bottom: 50px;
 }
 
@@ -56,6 +57,7 @@
 	align-items:center;
 	transition: ease-out 0.5s;
 	outline: none;
+	padding-bottom: 50px;
 }
 
 .apps button:hover{
